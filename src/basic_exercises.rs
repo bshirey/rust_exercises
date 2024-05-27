@@ -6,7 +6,7 @@ pub fn do_exercises() {
     exercise1();
 
     println!("------- Basic Exercise #2 -------");
-    exercise2();
+    //exercise2();
     
     println!("------- Basic Exercise #3 -------");
     exercise3();
@@ -18,7 +18,7 @@ pub fn do_exercises() {
     exercise5();
     
     println!("------- Basic Exercise #6 -------");
-    exercise6();
+    //exercise6();
     
     println!("------- Basic Exercise #7 -------");
     exercise7();
@@ -30,7 +30,7 @@ pub fn do_exercises() {
     exercise9();
     
     println!("------- Basic Exercise #10 -------");
-    exercise10();
+    //exercise10();
     
     println!("------- Basic Exercise #11 -------");
     exercise11();
